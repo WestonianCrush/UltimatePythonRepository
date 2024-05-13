@@ -529,7 +529,6 @@ Here are other examples:
 ```python
 def squared(x):
     print(f"The square of the number {x} is {x * x}")
-
 squared(2)
 squared(5)
 ```
